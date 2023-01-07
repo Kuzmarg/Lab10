@@ -4,33 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ef132fa-7661-4543-98c3-ffd98df1f739" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqldiff.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlite3.def" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlite3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlite3.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlite3_analyzer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/task2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/task2/FacebookCLientWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/task2/FacebookUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/task2/TwitterUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/task2/TwitterUserWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/task3/Authorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/task3/DataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/task3/ReportBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/task3/Авторизація.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/task3/БазаДаних.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/task1/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/task1/User.java" afterDir="false" />
+    <list default="true" id="6ef132fa-7661-4543-98c3-ffd98df1f739" name="Changes" comment="Main commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/vovak/OneDrive/Документи/GitHub/Lab9"
+    "last_opened_file_path": "C:/Users/vovak/OneDrive/Документи/GitHub/Lab8/Middle-OOP"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -103,6 +78,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668678920345</updated>
     </task>
+    <task id="LOCAL-00001" summary="Main commit">
+      <created>1669577448862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669577448862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Main commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main commit" />
   </component>
 </project>

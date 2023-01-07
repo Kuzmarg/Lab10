@@ -13,7 +13,8 @@ public class FacebookCLientWrapper implements Client{
 
     @Override
     public String getCountry() {
-        return user.getUserCountry();
+        return user.getUserCountry().equals(Country.Poland) ? "Poland" :
+                user.getUserCountry().equals(Country.Ukraine) ? "Ukraine": "USA";
     }
 
     @Override
